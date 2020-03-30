@@ -1,0 +1,29 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/De6ty9h.png" tvg-country="BR" tvg-url="" group-title="manancial",TVMANANCIAL
+https://5ad482a77183d.streamlock.net/tvmanancial9gmail.com/5e18bbdb9978b74b29be0a0d/chunklist_w380966758.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/De6ty9h.png" tvg-country="BR" tvg-url="" group-title="",RECORD
+https://edge-aws.aovivo.club/hls/s:209.126.108.100:81/record_3554dce5_3644dc1e4ba7e27e70acb2046ee694b742168176/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/De6ty9h.png" tvg-country="BR" tvg-url="" group-title="manancial",band
+https://edge-aws.aovivo.club/hls/s:95.216.15.44:81/bandnews_aee544ce_ea40570f70175d45aaa722b8d64c748362731c1a/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/De6ty9h.png" tvg-country="BR" tvg-url="" group-title="",HBO
+https://edge-aws.aovivo.club/hls/s:95.216.15.44:81/hbo1080p_63266754_178a4bee2015a50466eefbeda46729e8b78a8d96/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/De6ty9h.png" tvg-country="BR" tvg-url="" group-title="",TELECINE ACTION
+https://edge-aws.aovivo.club/hls/s:209.126.108.100:81/telecineaction_be057d4c_c3175c37b34fd5f340638d81d0363dd70ae7fae8/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/De6ty9h.png" tvg-country="BR" tvg-url="" group-title="",TELECINE PREMIUM
+https://edge-aws.aovivo.club/hls/s:209.126.108.100:81/telecinepremium_a929eb33_88701bfc69a236ec6a98da16704f5f7cce341519/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/De6ty9h.png" tvg-country="BR" tvg-url="" group-title="",TELECINE PIPOCA
+https://edge-aws.aovivo.club/hls/s:95.216.15.44:81/telecinepipoca_fd937516_e6b1d1d41ed8366084af24b19362af1288a3893d/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/De6ty9h.png" tvg-country="BR" tvg-url="" group-title="",A&E
+https://edge-aws.aovivo.club/hls/s:209.126.108.100:81/aemundo_c28aca23_41741952c4b2b663682a3071c5de242087cea6a7/playlist.m3u8
+
+
+
